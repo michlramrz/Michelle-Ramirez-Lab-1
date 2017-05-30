@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+<title>  ITMD-361 Internet Technologies and Web Design.  </title>
+</head>
+<body>
+	<h2>Summer 2017</h2>
+
+	<p>Name: Michelle Ramírez</p>
+	<p>Email: mramirez4@hawk.iit.edu</p>>
+
+	<h2>Professor:</h2>
+	<p>Daniel Krieglstein</p>
+
+	<h2>Lecture Days, Time and Place:</h2>
+  <p> Tuesday and Wednesday, 6:00 p.m. to 9:10 p.m., Stuart Building, Room 239 </p>
+
+  <h2>Course Catalog Description:</h2>
+  <p>This course will cover the creation of web pages and sites using HTML, CSS, Javascript, jQuery, snf graphical applications as well as the client and server architecture of the interent and related web technologies. The creation and development of modern, standards-compliant we pages are addressed. Students create and deploy a web site with multiple pages and cross-linked structures. <strong>Prerequisites:</strong>[none] <strong>Credit:</strong> 2-2-3 Semester Hours.</p>
+
+  <h2>Course Outcomes:</h2>
+  <p>Students completing this course will be able to:</p>
+
+  <ul>
+  	
+  	<li>Recognize HTML, CSS, and Javascript mark-up and code in a web page/application.</li>
+           <li>Select the proper mark-up tags or code to achieve a particular result.</li>
+           <li>Identify improperly used mark-up and code.</li>
+           <li>Produce modern standards compliant web pages.</li>
+           <li>Deploy web pages to a public server.</li>
+  
+
+  </ul>
+  <h2>Course Objectives:</h2>
+
+  <p>At the conclusion of this course, each successful student will be able to:</p>
+
+ <ul>
+           <li>Explain the client and server architecture of the Internet and related web technologies.</li>
+           <li>Use a basic text editor and other software tools to create web pages using HTML, CSS, Javascript, jQuery, and images.</li>
+           <li>Deploy web pages to a Linux-based web server using sftp.</li> 	
+
+ </ul>
+
+ 
+</body>
+</html>
